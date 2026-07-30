@@ -22,7 +22,7 @@ Sigue una **tabla comparativa de ejemplos de conceptos OOP que solo se aprenden 
 | Herencia | Simple (basada en clases) | Simple | Simple (Clases) + Múltiple (Interfaces) | No existe (Se usan traits y composición) |
 | Manejo de Memoria | Recolector de Basura (Garbage Collector) | Recolector de Basura automático | Recolector de Basura (JVM) | Sistema de Propiedad (Ownership) en compilación |
 
-Aprender un lenguaje ya no consiste en memorizar la sintaxis. Consiste en incorporar un modelo de programación. Una habilidad esencial será **leer** código.
+Aprender un lenguaje no consiste en memorizar la sintaxis. Consiste **en incorporar un modelo de programación**. Una habilidad esencial en el futuro será **leer** código.
 
 Materias como Procesadores de Lenguajes pueden ganar relevancia. Paradójicamente, cuanto mejor genera código la IA, más importante es entender cómo se representa, analiza, transforma y verifica ese código. Los fundamentos dejan de ser un medio para producir programas manualmente y pasan a ser la base para dirigir, evaluar y mejorar lo que producen las herramientas inteligentes.
 
