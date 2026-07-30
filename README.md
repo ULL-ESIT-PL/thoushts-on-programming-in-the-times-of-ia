@@ -43,9 +43,9 @@ La IA es un copiloto/herramienta/compañero que interviene en todas las fases de
 Enseñar programación tiene sentido, pero no como hace diez años.
 Antes el profesor, los libros, internet eran las fuentes de conocimiento, ahora el conocimiento está disponible instantáneamente.
 El profesor debe aportar algo distinto: seleccionar qué merece la pena aprender, construir las correspondientes secuencias pedagógicas, enseñar 
-- técnicas para detectar y corregir errores de razonamiento, 
-- elaborar la justificación de las  decisiones tomadas, y 
-- la reflexión crítica sobre el código generado.
+técnicas para detectar y corregir errores de razonamiento, 
+elaborar la justificación de las  decisiones tomadas y 
+la reflexión crítica sobre el código generado.
 
 Dentro de diez años seguiremos enseñando programación, pero de forma distinta.
 Habrá menos énfasis en memorizar sintaxis,
