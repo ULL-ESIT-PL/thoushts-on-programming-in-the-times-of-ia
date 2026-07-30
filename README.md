@@ -42,29 +42,6 @@ La IA es un copiloto/herramienta/compañero que interviene en todas las fases de
 
 Enseñar programación tiene más sentido que nunca.
 Pero no como hace diez años.
-Antes se dedicaban semanas a explicar:
-
-* sintaxis,
-* bucles,
-* funciones,
-* APIs.
-
-Hoy la IA puede explicarlas mejor que casi cualquier profesor, las veinticuatro horas del día. Entonces, ¿qué debería enseñar un profesor?
-
-Diría que, sobre todo:
-
-* modelado de problemas;
-* abstracción;
-* diseño de algoritmos;
-* estructuras de datos;
-* razonamiento sobre complejidad;
-* concurrencia;
-* diseño de software;
-* pruebas y validación;
-* lectura crítica del código generado por IA.
-
-Es decir, enseñar a pensar antes que a escribir.
-
 Antes el profesor era una fuente de conocimiento.
 Ahora el conocimiento está disponible instantáneamente.
 El profesor aporta algo distinto:
@@ -77,17 +54,14 @@ El profesor aporta algo distinto:
 
 Dentro de diez años seguiremos enseñando programación, pero de forma distinta.
 
-Habrá menos énfasis en:
-
-* memorizar sintaxis;
-* escribir código repetitivo;
-* implementar algoritmos estándar desde cero.
-
-Y mucho más en:
-
-* diseñar sistemas;
-* especificar correctamente problemas;
-* verificar que una solución es correcta;
-* comprender los fundamentos de los lenguajes, compiladores, sistemas operativos y algoritmos;
-* colaborar eficazmente con herramientas de IA.
+Habrá menos énfasis en
+memorizar sintaxis,
+escribir código repetitivo,
+implementar algoritmos estándar desde cero.
+Y mucho más en
+diseñar sistemas,
+especificar correctamente problemas,
+verificar que una solución es correcta,
+comprender los fundamentos de los lenguajes, compiladores, sistemas operativos y algoritmos y 
+colaborar eficazmente con herramientas de IA.
 
