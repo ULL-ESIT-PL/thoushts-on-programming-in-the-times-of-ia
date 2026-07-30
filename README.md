@@ -13,14 +13,15 @@ Por ejemplo:
 
 En ese contexto, aprender un nuevo lenguaje sigue teniendo sentido si ese lenguaje te enseña un modelo/paradigma o versión del modelo/paradigma nuevo. Aprender simplemente "otro lenguaje más" porque el mercado lo demanda tiene menos valor que antes.
 
-Sigue una tabla comparativa de ejemplos de conceptos OOP que solo se aprenden conociendo en profundidad cuatro diferentes lenguajes
+Sigue una tabla que muestra, para cada uno de los lenguajes anteriores, el paradigma y el concepto central que aportan:
 
-| Característica | Alan Kay (Smalltalk) | Simula | Java | Rust |
-|---|---|---|---|---|
-| Foco Principal | Mensajes y comunicación | Bloques de datos y simulación | Clases y seguridad de tipos | Datos, Comportamiento (traits) y Propiedad |
-| Despacho de Métodos | Dinámico (Tardío/Late binding) | Estático / Dinámico (virtual) | Dinámico por defecto | Estático (Estático/Generics) o Dinámico (dyn) |
-| Herencia | Simple (basada en clases) | Simple | Simple (Clases) + Múltiple (Interfaces) | No existe (Se usan traits y composición) |
-| Manejo de Memoria | Recolector de Basura (Garbage Collector) | Recolector de Basura automático | Recolector de Basura (JVM) | Sistema de Propiedad (Ownership) en compilación |
+| Lenguaje | Paradigma / forma de pensar | Concepto central que enseña | Mecanismo distintivo |
+|---|---|---|---|
+| Lisp | Metaprogramación | Homoiconicidad[^1]: el código es dato | Macros que transforman el AST antes de evaluarlo |
+| Haskell | Programación funcional pura | Inmutabilidad y razonamiento ecuacional | Tipos con efectos controlados (mónadas), sin estado mutable |
+| Prolog | Programación lógica | Especificar el "qué", no el "cómo" | Resolución por unificación y backtracking automático |
+| Smalltalk / Ruby | Orientación a objetos "a lo Alan Kay" | Todo es un objeto que responde a mensajes | Despacho dinámico tardío; clases modificables en tiempo de ejecución |
+| Rust | Sistemas y gestión de recursos | Propiedad (ownership) y tiempo de vida | El compilador verifica ausencia de data races y use-after-free sin recolector de basura |
 
 Aprender un lenguaje no consiste en memorizar la sintaxis. Consiste **en incorporar un modelo de programación**. Una habilidad esencial en el futuro será **leer** código.
 
