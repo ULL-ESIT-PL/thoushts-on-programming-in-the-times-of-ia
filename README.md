@@ -31,14 +31,14 @@ Materias como "Lenguajes y Paradigmas" o "Procesadores de Lenguajes" pueden gana
 La programación no es sólo escribir código.
 Es transformar una idea en un procedimiento preciso haciendo uso de los conceptos y paradigmas que constituyen la ingeniería del software y de las herramientas de desarrollo
 que materializan de forma diversa los conceptos de esta rama de la ingeniería.
-La IA es un copiloto/herramienta/compañero que interviene en todas las fases de la programación y que escribe código mejor que el humano. El humano **decide**:
+La IA es un copiloto/herramienta/compañero que interviene en todas las fases de la programación y que escribe código mejor que el humano. El humano debe decidir sobre aspectos como:
 
 * qué problema resolver,
 * qué restricciones existen,
 * qué algoritmo conviene,
 * qué arquitectura será mantenible,
 * qué compromisos aceptar.
-* si asume la responsabilidad sobre el código generado.
+* si puede asumir la responsabilidad sobre el código generado o necesita mejora.
 
 Es parecido a la aparición de las calculadoras.
 Nadie dejó de enseñar matemáticas porque una calculadora multiplicara mejor.
