@@ -40,10 +40,8 @@ La IA es un copiloto/herramienta/compañero que interviene en todas las fases de
 * qué compromisos aceptar.
 * si puede asumir la responsabilidad sobre el código generado o necesita mejora.
 
-Enseñar programación tiene más sentido que nunca.
-Pero no como hace diez años.
-Antes el profesor era una fuente de conocimiento.
-Ahora el conocimiento está disponible instantáneamente.
+Enseñar programación tiene sentido, pero no como hace diez años.
+Antes el profesor era una fuente de conocimiento, ahora el conocimiento está disponible instantáneamente.
 El profesor aporta algo distinto:
 
 * selecciona qué merece la pena aprender;
