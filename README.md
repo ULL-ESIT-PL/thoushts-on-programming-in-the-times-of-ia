@@ -11,7 +11,7 @@ Por ejemplo:
 * Prolog enseña programación lógica.
 * Smalltalk y Ruby enseñan orientación a objetos a lo "Alan Kay".
 
-En ese contexto, aprender un nuevo lenguaje sigue teniendo sentido si ese lenguaje te enseña un modelo/idea nueva. Aprender simplemente "otro lenguaje más" porque el mercado lo demanda tiene menos valor que antes.
+En ese contexto, aprender un nuevo lenguaje sigue teniendo sentido si ese lenguaje te enseña un modelo/paradigma o versión del modelo/paradigma nuevo. Aprender simplemente "otro lenguaje más" porque el mercado lo demanda tiene menos valor que antes.
 
 **Tabla Comparativa de ejemplos de conceptos OOP que solo se aprenden usando diferentes lenguajes**
 
