@@ -1,8 +1,7 @@
-# ¿Tiene sentido aprender un nuevo  lenguaje de programación nuevo en estos tiempos en que la IA programa tan bien? ¿Tiene sentido enseñar programación?
+# Reflexiones sobre la enseñanza de lenguajes de programación en estos tiempos de la IA
 
-### Aprender un nuevo lenguaje ya no es el objetivo
-
-Lo que ocurre es que aprender un lenguaje ahora sirve para aprender una **forma distinta de pensar**.
+Aprender un nuevo lenguaje nunca es el objetivo.
+Lo que ocurre es que aprender un lenguaje ahora y siempre ha servido para aprender una **forma distinta de pensar**.
 
 Por ejemplo:
 
