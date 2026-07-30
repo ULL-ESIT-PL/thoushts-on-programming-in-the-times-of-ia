@@ -40,12 +40,7 @@ La IA es un copiloto/herramienta/compañero que interviene en todas las fases de
 * qué compromisos aceptar.
 * si puede asumir la responsabilidad sobre el código generado o necesita mejora.
 
-Es parecido a la aparición de las calculadoras.
-Nadie dejó de enseñar matemáticas porque una calculadora multiplicara mejor.
-Lo que cambió fue el nivel.
-
-
-Enseñar programación tiene más sentido que nunca
+Enseñar programación tiene más sentido que nunca.
 Pero no como hace diez años.
 Antes se dedicaban semanas a explicar:
 
