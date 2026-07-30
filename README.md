@@ -13,7 +13,7 @@ Por ejemplo:
 
 En ese contexto, aprender un nuevo lenguaje sigue teniendo sentido si ese lenguaje te enseña un modelo/paradigma o versión del modelo/paradigma nuevo. Aprender simplemente "otro lenguaje más" porque el mercado lo demanda tiene menos valor que antes.
 
-**Tabla comparativa de ejemplos de conceptos OOP que solo se aprenden usando diferentes lenguajes**
+Sigue una **tabla comparativa de ejemplos de conceptos OOP que solo se aprenden conociendo en profundidad diferentes lenguajes**
 
 | Característica | Alan Kay[](https://www.google.com/search?q=alan+kay&kgmid=/m/0q0x#sv=CBwS1AMKpQMSogMK4gJBSmlUNHRJQ0NOSWdzbEZIZVotc29WX2w5c3BIUGlmQUlKbmd0UklGcE1oWVJXZldqbjFjWTdfVS15bVIzdjZCejRmQ2RFekxxb25HQlpLdmk5X21udjBKZlhGV1gxMEgwR1ZydV9MUjY0blJlcnZuRElMb1B6Ymp3X2I1UjRnTTZjcElZNkEzWFpWTFBWNnY5QkNXWHpFYmJBNmhyMHlaSG5SNmprN080MDhLU28yX21kY0lTeTM0NGhxZ1NkTGZad1k0WUx3aTZjS0ozNkhxbGVFWmp4Tl8tYlY2RWhUM2tid0czM3l3Wlp0bW9kZU4yMnVma0FhZEhaaWdkdkU3OGZUUEhMX1RGTkdzUWZmVWtiODRwRlhuQVc2NlJCbGxzd3Ytc0J1OUp0MzRBRGtJUDBTRDdwQkdiMEp3YjhzTDJPandLU25TeTI3QXZ3eHpfQmY3ZjFjUVFzRy1idlNCN1ESF2ZnRnJhdE9MSXVHLW5zRVA5SkRmeVFnGiJBRHNyOWZST3lveG9SZEx3Rzc5VDVoMkd5X3I0U1lwM3BnEgQ3ODU0GgEzIg0KAXESCGFsYW4ga2F5IhAKBWtnbWlkEgcvbS8wcTB4KAAYRSDA8PniDw) (Smalltalk) | Simula | Java | Rust (No es OOP puro) |
 |---|---|---|---|---|
