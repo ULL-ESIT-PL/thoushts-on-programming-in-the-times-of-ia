@@ -15,7 +15,7 @@ En ese contexto, aprender un nuevo lenguaje sigue teniendo sentido si ese lengua
 
 Sigue una tabla comparativa de ejemplos de conceptos OOP que solo se aprenden conociendo en profundidad cuatro diferentes lenguajes
 
-| Característica | Alan Kay[](https://www.google.com/search?q=alan+kay&kgmid=/m/0q0x#sv=CBwS1AMKpQMSogMK4gJBSmlUNHRJQ0NOSWdzbEZIZVotc29WX2w5c3BIUGlmQUlKbmd0UklGcE1oWVJXZldqbjFjWTdfVS15bVIzdjZCejRmQ2RFekxxb25HQlpLdmk5X21udjBKZlhGV1gxMEgwR1ZydV9MUjY0blJlcnZuRElMb1B6Ymp3X2I1UjRnTTZjcElZNkEzWFpWTFBWNnY5QkNXWHpFYmJBNmhyMHlaSG5SNmprN080MDhLU28yX21kY0lTeTM0NGhxZ1NkTGZad1k0WUx3aTZjS0ozNkhxbGVFWmp4Tl8tYlY2RWhUM2tid0czM3l3Wlp0bW9kZU4yMnVma0FhZEhaaWdkdkU3OGZUUEhMX1RGTkdzUWZmVWtiODRwRlhuQVc2NlJCbGxzd3Ytc0J1OUp0MzRBRGtJUDBTRDdwQkdiMEp3YjhzTDJPandLU25TeTI3QXZ3eHpfQmY3ZjFjUVFzRy1idlNCN1ESF2ZnRnJhdE9MSXVHLW5zRVA5SkRmeVFnGiJBRHNyOWZST3lveG9SZEx3Rzc5VDVoMkd5X3I0U1lwM3BnEgQ3ODU0GgEzIg0KAXESCGFsYW4ga2F5IhAKBWtnbWlkEgcvbS8wcTB4KAAYRSDA8PniDw) (Smalltalk) | Simula | Java | Rust (No es OOP puro) |
+| Característica | Alan Kay (Smalltalk) | Simula | Java | Rust |
 |---|---|---|---|---|
 | Foco Principal | Mensajes y comunicación | Bloques de datos y simulación | Clases y seguridad de tipos | Datos, Comportamiento (traits) y Propiedad |
 | Despacho de Métodos | Dinámico (Tardío/Late binding) | Estático / Dinámico (virtual) | Dinámico por defecto | Estático (Estático/Generics) o Dinámico (dyn) |
