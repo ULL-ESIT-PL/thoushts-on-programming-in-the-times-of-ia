@@ -29,9 +29,9 @@ Materias como "Lenguajes y Paradigmas" o "Procesadores de Lenguajes" pueden gana
 [^1]: La homoiconicidad es una propiedad de ciertos lenguajes de programación en los que la estructura del código fuente es una estructura de datos que el programa puede manipular. El código se representa en las mismas estructuras de datos que el propio lenguaje utiliza, lo que permite que un programa pueda tratarse a sí mismo como un dato.
 
 La programación no es sólo escribir código.
-Es transformar una idea en un procedimiento preciso haciendo uso de los conceptos y paradigmas que constituyen la ingeniería del software y las herramientas de desarrollo
+Es transformar una idea en un procedimiento preciso haciendo uso de los conceptos y paradigmas que constituyen la ingeniería del software y de las herramientas de desarrollo
 que materializan de forma diversa esos conceptos.
-La IA es un copiloto que escribe código. El humano **decide**:
+La IA es un copiloto/herramienta/compañero que interviene en todas las fases de la programación y que escribe código mejor que el humano. El humano **decide**:
 
 * qué problema resolver,
 * qué restricciones existen,
