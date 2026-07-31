@@ -53,6 +53,7 @@ No es una titulación aparte, sino el conjunto de competencias que cualquier per
 |---|---|---|
 | Fundamentos de programación y estructuras de datos | Tipos, control de flujo, complejidad básica, estructuras de datos elementales | Lo justo para leer y razonar sobre código ajeno, no para producirlo todo a mano |
 | Especificación de problemas | Ingeniería de requisitos, casos de uso, invariantes | Sin una especificación precisa no se puede pedir bien a la IA ni juzgar si el resultado es correcto |
+| Fundamentos de dirección de IA (prompting) | Redactar instrucciones efectivas, descomponer tareas grandes en pasos verificables, iterar sobre el resultado, gestionar contexto y herramientas del agente | Es el mecanismo concreto con el que el "conductor" maneja el vehículo: una instrucción vaga o mal descompuesta produce un resultado tan malo como una buena instrucción sin verificar |
 | Verificación y testing | Tests unitarios y de propiedades, casos límite, cobertura | Comprobar que el código generado hace lo que dice hacer, no solo que "parece" correcto |
 | Lectura y auditoría de código generado por IA | Revisión de código (code review) aplicada a salidas de IA | Leer se vuelve más importante que escribir |
 | Pensamiento crítico sobre IA | Detectar alucinaciones, razonamientos plausibles pero erróneos, sesgos | La IA se equivoca con apariencia de seguridad; hay que saber dónde desconfiar |
