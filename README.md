@@ -48,7 +48,7 @@ Los fundamentos dejan de ser un medio para producir programas manualmente y pasa
 
 ## Curriculum del Carnet
 
-No es una titulación aparte, sino el conjunto de competencias que cualquier persona que programe con apoyo de IA -sea o no ingeniero informático- debería dominar para poder asumir con garantías la responsabilidad sobre el código que pone en producción.
+No es necesariamente una titulación aparte, sino un conjunto de competencias que cualquier persona que programe con apoyo de IA  debería dominar para poder asumir con garantías la responsabilidad sobre el código que pone en producción.
 
 | Competencia | Qué cubre | Por qué importa |
 |---|---|---|
