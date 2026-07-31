@@ -1,6 +1,6 @@
 # Reflexiones sobre la enseñanza de la programación en los tiempos de la IA Generativa
 
-Aprender un lenguaje consiste **en incorporar un modelo de programación**. Aunque actualmente ha disminuído la cantidad de código escrito por humanos, sigue siendo esencial la labor de **leer** el código escrito por las LLMs. Aprender un lenguaje siempre ha servido para aprender una forma distinta (paradigma) de pensar.
+Aprender un lenguaje consiste **en incorporar los modelos de programación en los que se sostiene**. Aunque actualmente ha disminuído la cantidad de código escrito por humanos, sigue siendo esencial la labor de **leer** el código escrito por las LLMs. Aprender un lenguaje siempre ha servido para aprender una forma distinta (paradigma) de pensar.
 
 Por ejemplo:
 
@@ -10,7 +10,7 @@ Por ejemplo:
 * Prolog enseña programación lógica.
 * Smalltalk y Ruby enseñan orientación a objetos a lo "Alan Kay".
 
-En ese contexto, aprender un nuevo lenguaje sigue teniendo sentido si ese lenguaje te enseña un modelo/paradigma o versión del modelo/paradigma nuevo. Aprender simplemente "otro lenguaje más" porque el mercado lo demanda tiene menos valor que antes.
+La hipótesis que plantea que el lenguaje natural influye en el pensamiento y la resolución de problemas se conoce formalmente como la **hipótesis de la relatividad lingüística**. También es  conocida como hipótesis de Sapir-Whorf, en honor a los lingüistas Edward Sapir y Benjamin Lee Whorf. En su versión fuerte sostiene  que el lenguaje determina la forma en que pensamos y resolvemos problemas. El cuento "Story of Your Life" de Ted Chiang, adaptado al cine como "Arrival", explora esta idea en el contexto de la comunicación con una especie alienígena. Con los lenguajes de programación ocurre algo similar: aprender un lenguaje enseña a pensar de una manera distinta.
 
 Sigue una tabla que muestra, para cada uno de los lenguajes anteriores, el paradigma y el concepto central que aportan:
 
