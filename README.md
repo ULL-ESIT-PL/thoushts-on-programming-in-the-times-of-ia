@@ -34,37 +34,15 @@ Trasladado a la programación con IA, cabe distinguir el mismo doble papel: el "
 
 **Reflexión comparativa.** El párrafo anterior sobre la relevancia asume una relación directamente proporcional entre la capacidad de la IA y el conocimiento profundo que necesita el humano: cuanto mejor la IA, más debe saber el humano, apoyado en que la responsabilidad legal recae sobre este. La analogía del automóvil sugiere lo contrario una vez la tecnología madura y se estandariza: la responsabilidad legal ordinaria se cubre con una competencia mucho más básica -un "carnet"-, mientras el conocimiento profundo se concentra en un rol especializado distinto del usuario medio. Ambas ideas pueden ser ciertas a la vez si se leen como dos momentos de la misma curva de madurez: mientras la IA no ofrezca explicaciones fiables y verificables -el "ABS" o los "airbags" del código-, el primer párrafo describe correctamente la situación actual, en la que cualquiera que programe debe poder auditar en profundidad lo que la IA produce. La analogía del automóvil describe, en cambio, el punto de llegada plausible una vez la IA alcance ese nivel de madurez: en ese escenario el conocimiento de compiladores y paradigmas seguirá siendo crítico, pero para menos gente -quienes construyen y certifican las herramientas-, no para todo programador. La pregunta que ninguno de los dos párrafos resuelve es en qué punto de esa curva de madurez estamos hoy, y por tanto a qué perfil de estudiante debe dirigirse la enseñanza.
 
+Esta distinción tiene una consecuencia directa sobre cómo debería cambiar la formación de un ingeniero informático: en lugar de un currículo único, tendría que dividirse en dos capas con objetivos distintos.
+
+**El "carnet"**, común a todo ingeniero informático sea cual sea su especialidad, debería centrarse en especificar problemas con precisión, verificar la corrección de una solución -tests, propiedades, casos límite- y leer y auditar código ajeno, en particular código generado por IA y no sólo el de otros compañeros; en detectar errores de razonamiento y fallos sutiles en esa salida que no siempre son evidentes a simple vista; y en diseñar sistemas y decidir compromisos arquitectónicos, que sigue siendo terreno humano.
+
+**El "ingeniero/mecánico"**, para quien vaya a construir o mantener los cimientos -lenguajes, compiladores, runtimes, frameworks, sistemas críticos-, es donde el conocimiento profundo de "Lenguajes y Paradigmas" o "Procesadores de Lenguajes" sigue siendo imprescindible, no como cultura general sino como oficio: sin esta capa nadie construye ni corrige las herramientas de las que depende la capa del "carnet".
+
+El riesgo de un currículo que se vuelva todo "carnet" por seguir el ritmo del mercado es vaciar la capa de "ingeniero/mecánico" justo cuando más se necesita gente capaz de construir y depurar la próxima generación de herramientas de IA.
+
 
 
 [^1]: La homoiconicidad es una propiedad de ciertos lenguajes de programación en los que la estructura del código fuente es una estructura de datos que el programa puede manipular. El código se representa en las mismas estructuras de datos que el propio lenguaje utiliza, lo que permite que un programa pueda tratarse a sí mismo como un dato.
-
-La programación no es sólo escribir código.
-Es transformar una idea en un procedimiento preciso haciendo uso de los conceptos y paradigmas que constituyen la ingeniería del software y de las herramientas de desarrollo
-que materializan de forma diversa los conceptos de esta rama de la ingeniería.
-La IA es un copiloto/herramienta/compañero que interviene en todas las fases de la programación y que escribe código mejor que el humano. El humano debe decidir sobre aspectos como:
-
-* qué problema resolver,
-* qué restricciones existen,
-* qué algoritmo conviene,
-* qué arquitectura será mantenible,
-* qué compromisos aceptar.
-* si puede asumir la responsabilidad sobre el código generado o necesita mejora.
-
-Enseñar programación tiene sentido, pero no como hace diez años.
-Antes el profesor, los libros, internet eran las fuentes de conocimiento, ahora el conocimiento está disponible instantáneamente.
-El profesor debe aportar algo distinto: seleccionar qué merece la pena aprender, construir las correspondientes secuencias pedagógicas, enseñar 
-técnicas para detectar y corregir errores de razonamiento, 
-elaborar la justificación de las  decisiones tomadas y 
-la reflexión crítica sobre el código generado.
-
-Dentro de diez años seguiremos enseñando programación, pero de forma distinta.
-Habrá menos énfasis en memorizar sintaxis,
-escribir código repetitivo,
-implementar algoritmos estándar desde cero
-y mucho más en
-diseñar sistemas,
-especificar correctamente problemas,
-verificar que una solución es correcta,
-comprender los fundamentos de los lenguajes, compiladores, sistemas operativos y algoritmos y 
-colaborar eficazmente con herramientas de IA.
 
