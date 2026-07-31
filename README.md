@@ -1,8 +1,6 @@
 # Reflexiones sobre la enseñanza de lenguajes de programación en estos tiempos de la IA
 
-Aprender un nuevo lenguaje nunca es el objetivo. Aprender un lenguaje consiste **en incorporar un modelo de programación**. Aunque actualmente ha disminuído la cantidad de código escrito por humanos, sigue siendo esencial la labor de **leer** el código escrito por las LLMs.
-
-Lo que ocurre es que aprender un lenguaje ahora y siempre ha servido para aprender una **forma distinta de pensar**.
+Aprender un nuevo lenguaje nunca es el objetivo. Aprender un lenguaje consiste **en incorporar un modelo de programación**. Aunque actualmente ha disminuído la cantidad de código escrito por humanos, sigue siendo esencial la labor de **leer** el código escrito por las LLMs. Aprender un lenguaje ahora y siempre ha servido para aprender una **forma distinta de pensar**.
 
 Por ejemplo:
 
