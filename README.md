@@ -1,6 +1,7 @@
 # Reflexiones sobre la enseñanza de lenguajes de programación en estos tiempos de la IA
 
-Aprender un nuevo lenguaje nunca es el objetivo.
+Aprender un nuevo lenguaje nunca es el objetivo. Aprender un lenguaje consiste **en incorporar un modelo de programación**. Aunque actualmente ha disminuído la cantidad de código escrito por humanos, sigue siendo esencial la labor de **leer** el código escrito por las LLMs.
+
 Lo que ocurre es que aprender un lenguaje ahora y siempre ha servido para aprender una **forma distinta de pensar**.
 
 Por ejemplo:
@@ -23,7 +24,6 @@ Sigue una tabla que muestra, para cada uno de los lenguajes anteriores, el parad
 | Smalltalk / Ruby | Orientación a objetos "a lo Alan Kay" | Todo es un objeto que responde a mensajes | Despacho dinámico tardío; clases modificables en tiempo de ejecución |
 | Rust | Sistemas y gestión de recursos | Propiedad (ownership) y tiempo de vida | El compilador verifica ausencia de data races y use-after-free sin recolector de basura |
 
-Aprender un lenguaje no consiste en memorizar la sintaxis. Consiste **en incorporar un modelo de programación**. Una habilidad esencial en el futuro será **leer** código.
 
 El conocimiento de los contenidos de materias de programación como "Lenguajes y Paradigmas" o "Procesadores de Lenguajes" sigue siendo relevante. Paradójicamente, cuanto mejor genera código la IA, más importante es entender cómo se representa, analiza, transforma y verifica ese código. La necesidad de que el humano entienda el producto generado es consecuencia de que, en el marco legal actual, es este quien tiene la responsabilidad legal sobre las decisiones tomadas. Es por eso que también la investigación en IA/LLMs  debe evolucionar para que puedan explicar, justificar y argumentar mejor sus decisiones de forma comprensible para un humano. Un humano que debe tener suficientes conocimientos de programación para entender la explicación, discernir los puntos débiles, errores y posibles mejoras del código generado y fijar los siguientes objetivos.
 Los fundamentos dejan de ser un medio para producir programas manualmente y pasan a ser la base para dirigir, evaluar y mejorar lo que producen las herramientas inteligentes.
