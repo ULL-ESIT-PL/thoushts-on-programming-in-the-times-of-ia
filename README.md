@@ -45,3 +45,20 @@ Los fundamentos dejan de ser un medio para producir programas manualmente y pasa
 
 [^1]: La homoiconicidad es una propiedad de ciertos lenguajes de programación en los que la estructura del código fuente es una estructura de datos que el programa puede manipular. El código se representa en las mismas estructuras de datos que el propio lenguaje utiliza, lo que permite que un programa pueda tratarse a sí mismo como un dato.
 
+## Curriculum del Carnet
+
+No es una titulación aparte, sino el conjunto de competencias que cualquier persona que programe con apoyo de IA -sea o no ingeniero informático- debería dominar para poder asumir con garantías la responsabilidad sobre el código que pone en producción.
+
+| Competencia | Qué cubre | Por qué importa |
+|---|---|---|
+| Fundamentos de programación y estructuras de datos | Tipos, control de flujo, complejidad básica, estructuras de datos elementales | Lo justo para leer y razonar sobre código ajeno, no para producirlo todo a mano |
+| Especificación de problemas | Ingeniería de requisitos, casos de uso, invariantes | Sin una especificación precisa no se puede pedir bien a la IA ni juzgar si el resultado es correcto |
+| Verificación y testing | Tests unitarios y de propiedades, casos límite, cobertura | Comprobar que el código generado hace lo que dice hacer, no solo que "parece" correcto |
+| Lectura y auditoría de código generado por IA | Revisión de código (code review) aplicada a salidas de IA | Leer se vuelve más importante que escribir |
+| Pensamiento crítico sobre IA | Detectar alucinaciones, razonamientos plausibles pero erróneos, sesgos | La IA se equivoca con apariencia de seguridad; hay que saber dónde desconfiar |
+| Diseño y arquitectura de sistemas | Trade-offs, patrones, mantenibilidad | Sigue siendo terreno humano |
+| Responsabilidad profesional y marco legal/ético | Qué implica asumir la autoría de código que uno no ha escrito línea a línea | Conecta con la responsabilidad legal sobre las decisiones tomadas |
+| Paradigmas de programación (nivel de reconocimiento) | Los conceptos de la tabla de la sección anterior | Basta con identificar qué modelo mental hay detrás del código que se audita, sin necesidad de dominarlo a fondo |
+
+Quien complete este currículo puede especificar, dirigir, verificar y responsabilizarse del código que la IA produce, aunque no sepa construir el compilador, el runtime o el modelo que lo genera.
+
