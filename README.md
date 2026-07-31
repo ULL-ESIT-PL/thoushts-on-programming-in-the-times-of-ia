@@ -32,7 +32,7 @@ Trasladado a la programación con IA, cabe distinguir el mismo doble papel: el "
 
 Esta distinción tiene una consecuencia directa sobre cómo debería cambiar la formación de un ingeniero informático: en lugar de un currículo único, tendría que dividirse en dos títulos con objetivos distintos.
 
-**El "carnet"**, común a todo ingeniero informático sea cual sea su especialidad, debería centrarse en especificar problemas con precisión, verificar la corrección de una solución -tests, propiedades, casos límite- y leer y auditar código ajeno, en particular código generado por IA y no sólo el de otros compañeros; en detectar errores de razonamiento y fallos sutiles en esa salida que no siempre son evidentes a simple vista; y en diseñar sistemas y decidir compromisos arquitectónicos, que sigue siendo terreno humano.
+**El "carnet"**, común a todo "usuario avanzado de IA", sea cual sea su especialidad, debería centrarse en especificar problemas con precisión, verificar la corrección de una solución -tests, propiedades, casos límite- y leer y auditar código ajeno, en particular código generado por IA y no sólo el de otros compañeros; en detectar errores de razonamiento y fallos sutiles en esa salida que no siempre son evidentes a simple vista; y en diseñar sistemas y decidir compromisos arquitectónicos, que sigue siendo terreno humano.
 
 **El "ingeniero/mecánico"**, para quien vaya a construir o mantener los cimientos -lenguajes, compiladores, runtimes, frameworks, sistemas críticos-, es donde el conocimiento profundo de "Lenguajes y Paradigmas" o "Procesadores de Lenguajes" sigue siendo imprescindible, no como cultura general sino como oficio: sin esta capa nadie construye ni corrige las herramientas de las que depende la capa del "carnet".
 
