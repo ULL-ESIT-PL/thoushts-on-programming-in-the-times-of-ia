@@ -10,7 +10,9 @@ Por ejemplo:
 * Prolog enseña programación lógica.
 * Smalltalk y Ruby enseñan orientación a objetos a lo "Alan Kay".
 
-La hipótesis que plantea que el lenguaje natural influye en el pensamiento y la resolución de problemas se conoce formalmente como la **hipótesis de la relatividad lingüística**. También es  conocida como hipótesis de Sapir-Whorf, en honor a los lingüistas Edward Sapir y Benjamin Lee Whorf. En su versión fuerte sostiene  que el lenguaje determina la forma en que pensamos y resolvemos problemas. El cuento "Story of Your Life" de Ted Chiang, adaptado al cine como "Arrival", explora esta idea en el contexto de la comunicación con una especie alienígena. Con los lenguajes de programación ocurre algo similar: aprender un lenguaje enseña a pensar de una manera distinta.
+La hipótesis que plantea que el lenguaje natural influye en la forma en la que pensamos y resolvemos problemas se conoce formalmente como la **hipótesis de la relatividad lingüística**o  **hipótesis de Sapir-Whorf**. En su versión fuerte sostiene  que el lenguaje determina la forma en que pensamos y resolvemos problemas[^2]. Con los lenguajes de programación ocurre algo similar: aprender un lenguaje enseña a pensar de una manera distinta.
+
+[^2]: El cuento "Story of Your Life" de Ted Chiang, adaptado al cine como "Arrival", explora esta idea en el contexto de la comunicación con una especie alienígena. 
 
 Sigue una tabla que muestra, para cada uno de los lenguajes anteriores, el paradigma y el concepto central que aportan:
 
