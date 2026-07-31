@@ -17,7 +17,7 @@ Sigue una tabla que muestra, para cada uno de los lenguajes anteriores, el parad
 
 | Lenguaje | Paradigma / forma de pensar | Concepto central que enseña | Mecanismo distintivo |
 |---|---|---|---|
-| Lisp | Metaprogramación | Homoiconicidad[^1]: el código es dato | Macros que transforman el AST antes de evaluarlo |
+| Lisp | Metaprogramación | Homoiconicidad: el código es dato | Macros que transforman el AST antes de evaluarlo |
 | Haskell | Programación funcional pura | Inmutabilidad y razonamiento ecuacional | Tipos con efectos controlados (mónadas), sin estado mutable |
 | Prolog | Programación lógica | Especificar el "qué", no el "cómo" | Resolución por unificación y backtracking automático |
 | Smalltalk / Ruby | Orientación a objetos "a lo Alan Kay" | Todo es un objeto que responde a mensajes | Despacho dinámico tardío; clases modificables en tiempo de ejecución |
