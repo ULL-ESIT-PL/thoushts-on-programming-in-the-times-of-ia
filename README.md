@@ -64,3 +64,8 @@ No es necesariamente una titulación aparte, sino un conjunto de competencias qu
 
 Quien complete este currículo puede especificar, dirigir, verificar y responsabilizarse del código que la IA produce, aunque no sepa construir el compilador, el runtime o el modelo que lo genera.
 
+
+> 4. Fourth, and most importantly,  the programmer remains essential.  Not as a vessel of knowledge but as the  orchestrating agent who understands  the parts and how they fit together,  maintains the integrity of the system,  and who decides what matters. This  shift has profound implications for  how we understand programming  expertise. The most capable developers of this new era will not be those  who type the fastest or remember the  most, but those who can hold deep  mental models while offloading everything that interferes with that. They  will combine strong systems reasoning with AI-augmented recall and will treat the model almost like a cognitive  prosthetic: useful, fast, but incapable  of finally determining subjective-semantic correctness or coherence. 
+
+- Jeremy Osborn. 2026. AI Didn’t Make Programming Easier. It Just Made It Differently Difficult. Commun. ACM 69, 8 (August 2026), 18–21. https://doi.org/10.1145/3795534
+
