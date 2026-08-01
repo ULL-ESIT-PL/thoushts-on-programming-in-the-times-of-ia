@@ -28,14 +28,18 @@ Existe un paralelismo útil con la conducción de automóviles. Al principio de 
 
 Trasladado a la programación con IA, cabe distinguir el mismo doble papel: el "conductor" que usa código generado por la IA para resolver un problema concreto, y el "mecánico/ingeniero" que construye, mantiene o depura en profundidad los lenguajes, compiladores y sistemas sobre los que se apoya esa generación. Es plausible que, a medida que la IA madure -mejores explicaciones, verificación automática, tests generados, análisis estático- el nivel de conocimiento exigido al "conductor" se reduzca a algo parecido a un carnet: saber leer el código generado, especificar el problema con precisión, verificar el resultado y saber cuándo pedir ayuda a un especialista. El conocimiento profundo de "Procesadores de Lenguajes" seguiría siendo imprescindible, pero para el papel de mecánico/ingeniero, no necesariamente para todo el que programa.
 
-La analogía del automóvil sugiere que una vez la tecnología madura y se estandariza la responsabilidad legal ordinaria podría cubrirse con una competencia mucho más básica -un "carnet"-, mientras el conocimiento profundo se concentra en un rol especializado distinto del usuario medio. Mientras la IA no ofrezca explicaciones fiables y verificables -el "ABS" o los "airbags" del código- cualquiera que programe un producto comercial debería tener  preparación suficiente para poder auditar en profundidad lo que la IA produce. 
-También describe un punto de llegada plausible en que la IA alcance un nivel de madurez.  En ese escenario el conocimiento profundo de la programación seguirá siendo importante, pero para menos gente -quienes construyen y certifican las herramientas-, no para todo programador. ¿En qué punto de esa curva de madurez estamos hoy?.
+La analogía del automóvil sugiere que una vez la tecnología madura y se estandariza la responsabilidad legal ordinaria podría cubrirse con una competencia mucho más básica -un "carnet"-, mientras el conocimiento profundo se concentra en un rol especializado distinto del usuario medio. Mientras la IA no ofrezca explicaciones fiables y verificables -el "ABS" o los "airbags" del código- cualquiera que programe un producto comercial debería tener preparación suficiente para poder auditar en profundidad lo que la IA produce. 
+También describe un punto de llegada plausible en que la IA alcance un nivel de madurez. En ese escenario el conocimiento profundo de la programación seguirá siendo importante, pero para menos gente -quienes construyen y certifican las herramientas-, no para todo programador. ¿En qué punto de esa curva de madurez estamos hoy?.
 
 Esta distinción sugiere cómo podría cambiar la formación de un ingeniero informático: en lugar de un currículo único, se podría concebir un sistema en dos niveles con objetivos distintos.
 
 **El "carnet"**, común a todo "ingeniero". Debería centrarse en especificar problemas con precisión, verificar la corrección de una solución -tests, propiedades, casos límite- y leer y auditar código ajeno, en particular código generado por IA; en detectar errores de razonamiento y fallos sutiles en esa salida que no siempre son evidentes a simple vista; y en diseñar sistemas y decidir compromisos arquitectónicos, que sigue siendo terreno humano.
 
 Paradójicamente, cuanto mejor genera código la IA, más importante es entender cómo se representa, analiza, transforma y verifica ese código. La necesidad de que este profesional entienda el producto generado es en parte consecuencia de que, en el marco legal actual, es el humano quien tiene la responsabilidad legal sobre las decisiones tomadas. Una persona con este título debe tener suficientes conocimientos de programación para entender la explicación, discernir los puntos débiles, errores y posibles mejoras del código generado y fijar los siguientes objetivos.
+
+> The programmer remains essential. Not as a vessel of knowledge but as the orchestrating agent who understands the parts and how they fit together, maintains the integrity of the system, and who decides what matters. This shift has profound implications for how we understand programming expertise. The most capable developers of this new era will not be those who type the fastest or remember the most, but those who can hold deep mental models while offloading everything that interferes with that. They will combine strong systems reasoning with AI-augmented recall and will treat the model almost like a cognitive prosthetic: useful, fast, but incapable of finally determining subjective-semantic correctness or coherence. 
+
+- Jeremy Osborn. 2026. AI Didn’t Make Programming Easier. It Just Made It Differently Difficult. Commun. ACM 69, 8 (August 2026), 18–21. https://doi.org/10.1145/3795534
 
 **El "ingeniero/mecánico"**, para quien vaya a construir o mantener los cimientos -lenguajes, compiladores, runtimes, frameworks, sistemas críticos-, es donde el conocimiento profundo de la programación sigue siendo imprescindible, no como cultura general sino como oficio: sin esta capa nadie construye ni corrige las herramientas de las que depende la capa del "carnet".
 
@@ -48,7 +52,7 @@ Los fundamentos dejan de ser un medio para producir programas manualmente y pasa
 
 ## Curriculum del Carnet
 
-No es necesariamente una titulación aparte, sino un conjunto de competencias que cualquier persona que programe con apoyo de IA  debería dominar para poder asumir con garantías la responsabilidad sobre el código que pone en producción.
+No es necesariamente una titulación aparte, sino un conjunto de competencias que cualquier persona que programe con apoyo de IA debería dominar para poder asumir con garantías la responsabilidad sobre el código que pone en producción.
 
 | Competencia | Qué cubre | Por qué importa |
 |---|---|---|
@@ -63,9 +67,4 @@ No es necesariamente una titulación aparte, sino un conjunto de competencias qu
 | Paradigmas de programación (nivel de reconocimiento) | Los conceptos de la tabla de la sección anterior | Basta con identificar qué modelo mental hay detrás del código que se audita, sin necesidad de dominarlo a fondo |
 
 Quien complete este currículo puede especificar, dirigir, verificar y responsabilizarse del código que la IA produce, aunque no sepa construir el compilador, el runtime o el modelo que lo genera.
-
-
-> 4. Fourth, and most importantly,  the programmer remains essential.  Not as a vessel of knowledge but as the  orchestrating agent who understands  the parts and how they fit together,  maintains the integrity of the system,  and who decides what matters. This  shift has profound implications for  how we understand programming  expertise. The most capable developers of this new era will not be those  who type the fastest or remember the  most, but those who can hold deep  mental models while offloading everything that interferes with that. They  will combine strong systems reasoning with AI-augmented recall and will treat the model almost like a cognitive  prosthetic: useful, fast, but incapable  of finally determining subjective-semantic correctness or coherence. 
-
-- Jeremy Osborn. 2026. AI Didn’t Make Programming Easier. It Just Made It Differently Difficult. Commun. ACM 69, 8 (August 2026), 18–21. https://doi.org/10.1145/3795534
 
