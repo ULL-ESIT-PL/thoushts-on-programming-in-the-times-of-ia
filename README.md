@@ -62,10 +62,11 @@ No es necesariamente una titulación aparte, sino un conjunto de competencias qu
 | Fundamentos de dirección de IA (prompting) | Redactar instrucciones efectivas, descomponer tareas grandes en pasos verificables, iterar sobre el resultado, gestionar contexto y herramientas del agente | Es el mecanismo concreto con el que el "conductor" maneja el vehículo: una instrucción vaga o mal descompuesta produce un resultado tan malo como una buena instrucción sin verificar |
 | Verificación y testing | Tests unitarios y de propiedades, casos límite, cobertura | Comprobar que el código generado hace lo que dice hacer, no solo que "parece" correcto |
 | Lectura y auditoría de código generado por IA | Revisión de código (code review) aplicada a salidas de IA | Leer se vuelve más importante que escribir |
+| Control de versiones y trazabilidad | Commits atómicos, diffs, ramas, revisión de cambios (PRs), bisect, revertir | Es el mecanismo con el que se audita, aprueba y responde de cada cambio -propio o generado por IA-; sin un historial trazable no hay responsabilidad verificable |
 | Pensamiento crítico sobre IA | Detectar alucinaciones, razonamientos plausibles pero erróneos, sesgos | La IA se equivoca con apariencia de seguridad; hay que saber dónde desconfiar |
 | Diseño y arquitectura de sistemas | Trade-offs, patrones, mantenibilidad | Sigue siendo terreno humano |
 | Responsabilidad profesional y marco legal/ético | Qué implica asumir la autoría de código que uno no ha escrito línea a línea | Conecta con la responsabilidad legal sobre las decisiones tomadas |
-| Paradigmas de programación (nivel de reconocimiento) | Los conceptos de la tabla de la sección anterior | Basta con identificar qué modelo mental hay detrás del código que se audita, sin necesidad de dominarlo a fondo |
+| Paradigmas de programación (nivel de reconocimiento) | Reconocer, al leer código, las marcas distintivas de cada paradigma: mutación de estado vs. inmutabilidad, mensajes vs. llamadas a función, unificación/backtracking, macros/código-como-dato, propiedad y préstamo | Cada paradigma trae consigo garantías y errores típicos propios (p. ej. Rust descarta data races, Haskell descarta efectos ocultos); basta con identificar el modelo mental, sin necesidad de dominarlo a fondo |
 
 Quien complete este currículo puede especificar, dirigir, verificar y responsabilizarse del código que la IA produce, aunque no sepa construir el compilador, el runtime o el modelo que lo genera.
 
